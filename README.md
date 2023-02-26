@@ -10,13 +10,13 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por você; 
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
-
-
-
-
-
-Para estilização foi utilizado o framework Bootstrap e a criação da marca foi feita pelo Júlio Adler.
 -->
 
+Projeto desenvolvido em grupo no curso da Trybe Desenvolvimento Front-end.
 
+Nesse projeto, a pessoa que estiver utilizando o app pode procurar uma receita específica, explorar receitas baseado em diferentes critérios, favoritar e fazer as receitas, entre outras funcionalidades
+
+Para estilização foi utilizado o framework Bootstrap e a criação da marca foi feita pelo Júlio Adler.
+
+Tecnologias utilizadas: React, Hooks, Context API, React Testing Library.
 
